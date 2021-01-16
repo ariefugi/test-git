@@ -1,0 +1,4 @@
+Resolusi
+- belajar GIT lebih dalam
+- belajar JS
+- belajar Node JS
